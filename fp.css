@@ -1,2 +1,3 @@
 .postrender .postinner>.postuser.has-background-image .background-image:after {background-color: rgba(230,230,230,0.2) !important;}
 .has-background-image .postavatar img {display: none;}
+.postblock-read .postinner>.postuser .background-image:after {background: linear-gradient(to bottom, rgba(230,230,230,0.005), #e6e6e6 496px);}
